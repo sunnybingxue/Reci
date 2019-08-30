@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_131">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/poi-bin-4.0.1-20181203/poi-4.0.1/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/poi-bin-4.0.1-20181203/poi-4.0.1/poi-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/poi-bin-4.0.1-20181203/poi-4.0.1/poi-excelant-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/poi-bin-4.0.1-20181203/poi-4.0.1/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/poi-bin-4.0.1-20181203/poi-4.0.1/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/poi-bin-4.0.1-20181203/poi-4.0.1/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/hanlp/hanlp-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/hanlp/hanlp-1.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/itex/itext-asian.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/itex/itextpdf-5.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/assertj-core-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/fastjson-1.2.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/jedis-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/json-path-0.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/json-smart-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/webmagic-core-0.6.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/webmagic-extension-0.6.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/lib/xsoup-0.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOV/Desktop/jianmin/jar/jsoup-1.8.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
